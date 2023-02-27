@@ -1,6 +1,6 @@
 ## Access Earning report
 
-<img src="./media/Access_Earning_report.JPG" />
+<img src="./media/Access_Earning_report.JPG" width="200" />
 
 - features
   - user can track the spending and earning of the business relating to the accoutn
