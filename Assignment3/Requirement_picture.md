@@ -26,3 +26,14 @@
   - the advertisement will be presented to some users if they freqently search related terms
 - model explanation
   - the figure is feeding a charcoal to the stove to fuel his/her business
+
+## shopping cart
+
+<img src="./media/Shopping Cart.JPG" width="200" />
+
+- feature
+  - Registered users can add products they want to purchase in the future to this list
+  - The user can view this list whenever they want
+- model explanation
+  - the figure is viewing the products that are in the shopping cart. The products are the lego pieces which are colorful to show that these are the products that caught the users attention
+ 
