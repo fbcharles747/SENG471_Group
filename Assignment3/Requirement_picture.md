@@ -46,3 +46,11 @@
 - model explanation
   - The figure is standing by a phone ready to answer the users questions or complaints
  
+ ## Previous orders page
+
+<img src="./media/Previous_orders.jpg" width="200" />
+
+- Feature
+  - Registered users can view the products that they have purchased in the past and their status( delivered, processing, shipping etc)
+- Model explanation
+  - The figure is viewing the products that they have already purchased. The green blocks signify orders that has already been delivered and the red block represents the undelivered items.
