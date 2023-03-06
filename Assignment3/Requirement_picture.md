@@ -54,3 +54,23 @@
   - Registered users can view the products that they have purchased in the past and their status( delivered, processing, shipping etc)
 - Model explanation
   - The figure is viewing the products that they have already purchased. The green blocks signify orders that has already been delivered and the red block represents the undelivered items.
+
+## Account Page
+
+![AccountPage](https://user-images.githubusercontent.com/56771715/223150940-c0133acb-8023-4355-babf-4596ec3eda4d.jpg)
+
+- feature
+  - Users can see their first name, last name and email on the account page
+  - Users can manage theri first name, last name, and email on the acount page
+  - Users can see a list of orders they have purchased in the past and/or orders that are in progress
+- model explanation
+  - the figure is viewing the products that are in an account page. The products are the lego pieces which are colorful to show that these are the products that caught the users attention. The green block represent the first name text box. Tje grey blocj represents the last name text box. The blue box represents the email text box. The orange block represents the user order info
+
+##Customer Homepage
+
+-feature
+  - Users can see many tabs that represent an option that the user can pick and choose such as the search tab, products tab, manage account tab
+-model explanation
+  -the figure is viewing the customer homepage as soon as they log in or sign in. Each colour blocj represents a tab that the user would choose. 
+
+
