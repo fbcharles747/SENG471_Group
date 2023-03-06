@@ -29,7 +29,7 @@
 
 ## shopping cart
 
-<img src="./media/Shopping_Cart.JPG" width="200" />
+<img src="./media/Shopping_Cart.jpg" width="200" />
 
 - feature
   - Registered users can add products they want to purchase in the future to this list
