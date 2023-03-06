@@ -1,12 +1,12 @@
-                                                                      SENG 471 W23
-                                                                  Assignment 3 - Group 25
+                                                                      
 
-                                                                  Maarya Ahmed (30067927)
-                                                                  Kevin Johnson (30124217)
-                                                                  Chun-chun Huang (30112677)
-                                                                  Jannine Osman (30113696)
+##                                                                      SENG 471 W23
+##                                                                  Assignment 3 - Group 25
 
-
+##                                                                  Maarya Ahmed (30067927)
+##                                                                  Kevin Johnson (30124217)
+##                                                                  Chun-chun Huang (30112677)
+##                                                                  Jannine Osman (30113696)
 
 
 
