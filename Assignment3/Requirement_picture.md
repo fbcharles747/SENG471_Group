@@ -73,6 +73,15 @@
 - Model explanation
   - The figure is happy to see the various promotions which is represented by bright coloured blocks to show that these products are the ones that would catch the attention of the user.
 
+ ## Register as a seller page
+
+<img src="./media/Register_as_a_seller.jpg" width="200" />
+
+- Feature
+  - Prospective sellers will register to be able to sell on the site subject to approval from the company that the website is under.
+- Model explanation
+  - The figure is presenting itself to the company as a potential seller and they are waiting to receive what money that they could potentially receive after they become sellers on the site.
+
 ## Account Page
 <img src="./media/AccountPage.jpg" width="200" />
 
