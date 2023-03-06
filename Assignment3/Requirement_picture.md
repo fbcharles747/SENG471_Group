@@ -37,3 +37,13 @@
 - model explanation
   - the figure is viewing the products that are in the shopping cart. The products are the lego pieces which are colorful to show that these are the products that caught the users attention
  
+## shopping cart
+
+<img src="./media/Contact_page.jpg" width="200" />
+
+- feature
+  - Registered users can add products they want to purchase in the future to this list
+  - The user can view this list whenever they want
+- model explanation
+  - the figure is viewing the products that are in the shopping cart. The products are the lego pieces which are colorful to show that these are the products that caught the users attention
+ 
