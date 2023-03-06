@@ -105,4 +105,3 @@
 - feature
   - Users can see many tabs that represent an option that the user can pick and choose such as the search tab, products tab, manage account tab
 - model explanation
-  - the figure is viewing the customer homepage as soon as they log in or sign in. Each colour blocj represents a tab that the user would choose.
