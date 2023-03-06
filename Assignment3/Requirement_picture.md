@@ -105,3 +105,43 @@
 - feature
   - Users can see many tabs that represent an option that the user can pick and choose such as the search tab, products tab, manage account tab
 - model explanation
+- the figure is viewing the customer homepage as soon as they log in or sign in. Each colour blocj represents a tab that the user would choose. 
+
+## Login Page
+
+<img src="./media/LoginPage.jpg" width="200" />
+
+- feature
+  - Users are displayed a login page where they will input their username and password for the application
+- model explanation
+  - the figure is viewing the user login page. The red block represents the username and the green block represents the password that the user will input.
+
+## Search Tab
+
+<img src="./media/Searchtab.jpg" width="200" />
+
+- feature
+  - After coming to the customer homepage, User will choose the search tab where they can type in the product the wish to see. A keyboard will pop up and will prompt the user to type in the textbox shown.
+- model explanation
+  - the figure is viewing the product search tab where the beige block is the search box and the blue box is the input box where the user is prompted to type.
+
+## Sign Up Page
+
+<img src="./media/SignUpPage.jpg" width="200" />
+
+- feature
+  - User is taken to a page where the website prompts the user to input a first and last name, username and password for the application
+- model explanation
+  - The figure is viewing the user sign up page. The blue box is represented by the first and last name text box, the red box is represented by the username text box. The pink box is represented by the password text box.
+
+## Track Shipping Info
+
+<img src="./media/TrackShippingInfo.jpg" width="200" />
+
+- feature
+  - This feature in located in the manage accounts tab where the user can track their shipping information under the orders that were purchased.
+- model explanation
+  - The figure is viewing the shipping information under the list of purchased orders of user. The diagram shows a person standing on top of a boat with water around it represented but he blue and black lego blocks. The ship represents the tracking of the shipping of their order.
+
+
+  - the figure is viewing the customer homepage as soon as they log in or sign in. Each colour blocj represents a tab that the user would choose.
