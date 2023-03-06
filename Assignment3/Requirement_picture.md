@@ -56,7 +56,7 @@
   - The figure is viewing the products that they have already purchased. The green blocks signify orders that has already been delivered and the red block represents the undelivered items.
 
 ## Account Page
-
+<img src="./media/AccountPage.jpg" width="200" />
 ![AccountPage](https://user-images.githubusercontent.com/56771715/223150940-c0133acb-8023-4355-babf-4596ec3eda4d.jpg)
 
 - feature
@@ -67,6 +67,9 @@
   - the figure is viewing the products that are in an account page. The products are the lego pieces which are colorful to show that these are the products that caught the users attention. The green block represent the first name text box. Tje grey blocj represents the last name text box. The blue box represents the email text box. The orange block represents the user order info
 
 ##Customer Homepage
+
+![CustomerHomePage](https://user-images.githubusercontent.com/56771715/223152567-1d02d60c-6011-4ee8-bcde-ddd95fd7609c.jpg)
+
 
 -feature
   - Users can see many tabs that represent an option that the user can pick and choose such as the search tab, products tab, manage account tab
