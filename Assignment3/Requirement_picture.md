@@ -55,6 +55,24 @@
 - Model explanation
   - The figure is viewing the products that they have already purchased. The green blocks signify orders that has already been delivered and the red block represents the undelivered items.
 
+ ## Products tab
+
+<img src="./media/Products_tab.jpg" width="200" />
+
+- Feature
+  - User can browse and search among the various products available on the site
+- Model explanation
+  - The figure is viewing the various products that is available on the site.
+
+ ## Promotions page
+
+<img src="./media/Promotions_page.jpg" width="200" />
+
+- Feature
+  - This page displays the current promotions available on the site
+- Model explanation
+  - The figure is happy to see the various promotions which is represented by bright coloured blocks to show that these products are the ones that would catch the attention of the user.
+
 ## Account Page
 <img src="./media/AccountPage.jpg" width="200" />
 
